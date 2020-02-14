@@ -40,7 +40,7 @@ apply plugin: 'java'
 war {
     baseName = 'movie'
     version = '0.0.1-SNAPSHOT'
-    webAppDirName = "/root/.jenkins/workspace/movie_list"
+    webAppDirName = "/home/centos/movie_list"
 }
 
 
