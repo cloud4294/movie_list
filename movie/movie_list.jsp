@@ -8,29 +8,8 @@
 <title>DB Connection Test</title>
 </head>
 <body>
-<table align="center" border="1">
-  <tr>
-  <td>
-     Session ID
-  </td>
-  <td>
-     <%= session.getId() %></td>
-  </td>
-  <% session.setAttribute("abc","abc");%>
-  </tr>
-  <tr>
-  <td>
-    Created on
-  </td>
-  <td>
-    <%= session.getCreationTime() %>
-  </td>
-  </tr>
-</table>
 
-
-
-
+	<h1 width=600 ><font color="red">MOVIE_LIST</font></h1>
 	<table cellspacing=1 width=600 border=1>
 		<tr>
 			<td width=300><p align=center>감독</p></td>
