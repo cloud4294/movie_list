@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	<h1 width=600 ><font color="red">******* MOVIE_LIST *******</font></h1>
+	<h1 width=600 ><font color="red">******** MOVIE_LIST ********</font></h1>
 	<table cellspacing=1 width=600 border=1>
 		<tr>
 			<td width=300><p align=center>감독</p></td>
