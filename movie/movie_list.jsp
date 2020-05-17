@@ -36,10 +36,6 @@
                      stmt = conn.createStatement();
                      ps = conn.prepareStatement("SELECT * FROM MOVIES;");
                      rs = ps.executeQuery();
-			
-	
-		
-
                      while(rs.next()){
 			%>
 			<tr>
